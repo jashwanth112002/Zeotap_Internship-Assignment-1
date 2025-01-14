@@ -1,4 +1,4 @@
-# zeotap_Internship_assignment-1
+# Zeotap_Internship_assignment-1
 Non-Functional Requirements
 1. Performance
 The application is optimized for fast response times, ensuring smooth calculations and updates even with large datasets.
